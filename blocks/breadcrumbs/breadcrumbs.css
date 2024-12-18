@@ -29,7 +29,7 @@
     
     .breadcrumbs > div > div:last-child a {
         text-decoration: none;
-        color: red;
+        color: var(--brdcrmb-primary-color);
         font-family: Poppins;
         font-size: 0.875rem;
         font-style: normal;
