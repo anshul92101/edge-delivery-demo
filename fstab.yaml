@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/your-user-name/your-repo-name/main/docs
+    url: https://dita-franklin-worker.adobeaem.workers.dev/anshul92101/edge-delivery-demo/main/docs
     type: markup
 
