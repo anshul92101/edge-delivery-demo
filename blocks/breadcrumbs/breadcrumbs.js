@@ -19,3 +19,4 @@ a_tags.forEach(a_tag => {
   a_tag.setAttribute('href', url)
 })
 
+console.log("hello world")
