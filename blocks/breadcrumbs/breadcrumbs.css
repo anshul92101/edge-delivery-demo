@@ -20,7 +20,7 @@
     
     .breadcrumbs > div > div:not(:last-child) a {
         text-decoration: none;
-        color: var(--brdcrmb-secondary-color);
+        color: red;
         font-family: Poppins;
         font-size: 0.875rem;
         font-style: normal;
